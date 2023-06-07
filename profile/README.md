@@ -75,10 +75,17 @@ The Value will be seen with the time elapsed.
 
 
 🙋‍♀️ A short introduction - what is your organization all about?
+
 A AA focused research and dev group
+
 🌈 Contribution guidelines - how can the community get involved?
+
 See task board and launch PR
+
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+
 See FAQ of this doc or all repo's readme 
+
 🍿 Fun facts - what does your team eat for breakfast?
+
 Take-away... 🩹
