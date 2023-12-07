@@ -4,6 +4,12 @@
 - Here, we will research and discuss the current contract wallets centered around Account Abstraction(ERC4337, RIP7650, and more), the technology and products of Smart Contract Wallets, as well as the related ecological construction.
 - In the future, we will also expand discussions on topics related to multi-chain account deployment, Decentralized Identity (DID), decentralized record-keeping and credit, Non-Fungible Tokens (NFT), and SBT, among other related subjects.
 
+## Why we build AAstar
+- The blockchain market value reached $3 trillion before falling to $1 trillion(1), and has since recovered to $1.5 trillion now.
+- It is a rising and huge market, most on-chain assets are protected by encryption technology, commonly known as blockchain accounts.
+- Ensuring the security of blockchain accounts is paramount.
+- And if Ethereum service for the Human Digital future, we must have a flexible, easy-to-use, low-cost, and secure crypto account system to service the billions of users.
+- So Account Abstraction is a way to solve this mass adoption problem, let's try to build a future account system!
 
 ## Who we are
 
@@ -11,11 +17,14 @@
 - An Open-Source Community: AAStar's GitHub is fully transparent, including all ongoing research subjects and progress. Free for all, explore our research on GitHub: <https://github.com/AAStarCommunity>.
 - Accepting Grants: Anyone or any organization interested in specific topics can provide grants or sponsor researchers working on those topics.
 - Task Board: Anyone can post their topics and recruitment on the task board, or express their interest in joining a specific topic, provided it aligns with the community's focus areas.
+- Our Ethereum Istanbul Hackathon Project, AirAccount: https://ethglobal.com/showcase/airaccount-swqix
+- We are a branch group of Plancker!
 
 ## Topics
 
 + Crypto Account Research
 + Public Guardian Service
++ AirAccount : https://airaccount.org
 + Digital Decentralized Seal
 + ...
 
