@@ -5,7 +5,7 @@
 - In the future, we will also expand discussions on topics related to multi-chain account deployment, Decentralized Identity (DID), decentralized record-keeping and credit, Non-Fungible Tokens (NFT), and SBT, among other related subjects.
 
 ## Why we build AAstar
-- The blockchain market value reached $3 trillion before falling to $1 trillion(1), and has since recovered to $1.5 trillion now.
+- The blockchain market value reached $3 trillion before falling to $1 trillion, and has since recovered to $1.5 trillion, now it is rising again.
 - It is a rising and huge market, most on-chain assets are protected by encryption technology, commonly known as blockchain accounts.
 - Ensuring the security of blockchain accounts is paramount.
 - And if Ethereum service for the Human Digital future, we must have a flexible, easy-to-use, low-cost, and secure crypto account system to service the billions of users.
