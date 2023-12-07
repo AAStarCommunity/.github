@@ -1,5 +1,5 @@
 # AAStar Community
-
+- Leveraging the Power of Community for AA Ecosystem.
 - To continuously build the Ethereum Account ecosystem following the roadmap of Ethereum, we created the AAStar community.
 - Here, we will research and discuss the current contract wallets centered around Account Abstraction(ERC4337, RIP7650, and more), the technology and products of Smart Contract Wallets, as well as the related ecological construction.
 - In the future, we will also expand discussions on topics related to multi-chain account deployment, Decentralized Identity (DID), decentralized record-keeping and credit, Non-Fungible Tokens (NFT), and SBT, among other related subjects.
