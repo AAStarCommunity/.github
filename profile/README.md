@@ -1,1 +1,1 @@
-# AAStar: Empower Community🍄
+# AAStar: Empower Community, Unleash Humanity🍄
